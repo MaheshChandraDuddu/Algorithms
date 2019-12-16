@@ -1,5 +1,5 @@
 # Algorithms
-This is a solution to the problem given below in three different techniques Greedy, Dynamic & Branch and Bound.Also, you can find this problem or models of it in various online websites.
+This is a solution to the problem given below in two different techniques Greedy, Dynamic Programming. Also, you can find this problem or models of it in various online websites.
 
 # Question: 
 Shino has to travel from cell (1,1) to cell (N,M) in a grid of size N∗M.
